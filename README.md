@@ -94,3 +94,8 @@ Mitra bisnis dengan kebutuhan logistik kompleks. **Aksi**:
 - Sistem prediksi permintaan khusus untuk:
   - Antisipasi lonjakan order dari **Cluster 3** (Distributor)
   - Manajemen stok harian untuk **Cluster 0** (Pembeli rutin)
+ 
+-------------------------------------------------------------------
+
+## Dataset : Kaggle
+https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
